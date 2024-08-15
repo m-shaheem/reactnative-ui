@@ -1,0 +1,352 @@
+[
+   {
+      "id": "P001",
+      "projectname": "Smart Home Automation",
+      "duration": "4 months",
+      "location": "Austin, TX",
+      "description": "Developing an intelligent home automation system to enhance convenience and energy efficiency.",
+      "amount": 950,
+      "focusing_topics": [
+        "IoT",
+        "smart devices",
+        "home security"
+      ],
+      "postedon": "2024-08-01"
+    },
+    {
+      "id": "P002",
+      "projectname": "Blockchain for Supply Chain",
+      "duration": "6 months",
+      "location": "Seattle, WA",
+      "description": "Implementing blockchain technology to improve transparency and efficiency in supply chains.",
+      "amount": 800,
+      "focusing_topics": [
+        "blockchain",
+        "supply chain management",
+        "transparency"
+      ],
+      "postedon": "2024-08-02"
+    },
+    {
+      "id": "P003",
+      "projectname": "AI Chatbot Development",
+      "duration": "3 months",
+      "location": "San Francisco, CA",
+      "description": "Creating a sophisticated AI chatbot to assist with customer service and support.",
+      "amount": 650,
+      "focusing_topics": [
+        "AI",
+        "natural language processing",
+        "customer support"
+      ],
+      "postedon": "2024-08-03"
+    },
+    {
+      "id": "P004",
+      "projectname": "Cybersecurity Enhancement",
+      "duration": "5 months",
+      "location": "New York, NY",
+      "description": "Upgrading cybersecurity measures to protect sensitive data and prevent breaches.",
+      "amount": 700,
+      "focusing_topics": [
+        "cybersecurity",
+        "data protection",
+        "network security"
+      ],
+      "postedon": "2024-08-04"
+    },
+    {
+      "id": "P005",
+      "projectname": "Virtual Reality Training Modules",
+      "duration": "6 months",
+      "location": "Chicago, IL",
+      "description": "Developing virtual reality modules for immersive training experiences in various industries.",
+      "amount": 900,
+      "focusing_topics": [
+        "VR",
+        "training",
+        "education"
+      ],
+      "postedon": "2024-08-05"
+    },
+    {
+      "id": "P006",
+      "projectname": "Green Energy Solutions",
+      "duration": "7 months",
+      "location": "Portland, OR",
+      "description": "Researching and implementing sustainable energy solutions to reduce carbon footprint.",
+      "amount": 850,
+      "focusing_topics": [
+        "renewable energy",
+        "sustainability",
+        "carbon reduction"
+      ],
+      "postedon": "2024-08-06"
+    },
+    {
+      "id": "P007",
+      "projectname": "Smart City Infrastructure",
+      "duration": "8 months",
+      "location": "Los Angeles, CA",
+      "description": "Enhancing urban infrastructure with smart technologies to improve city living.",
+      "amount": 950,
+      "focusing_topics": [
+        "smart cities",
+        "urban planning",
+        "technology integration"
+      ],
+      "postedon": "2024-08-07"
+    },
+    {
+      "id": "P008",
+      "projectname": "E-commerce Platform Upgrade",
+      "duration": "4 months",
+      "location": "Boston, MA",
+      "description": "Upgrading an existing e-commerce platform to enhance user experience and functionality.",
+      "amount": 750,
+      "focusing_topics": [
+        "e-commerce",
+        "website development",
+        "user experience"
+      ],
+      "postedon": "2024-08-08"
+    },
+    {
+      "id": "P009",
+      "projectname": "Healthcare Data Analytics",
+      "duration": "6 months",
+      "location": "Philadelphia, PA",
+      "description": "Implementing data analytics solutions to improve patient care and operational efficiency in healthcare.",
+      "amount": 900,
+      "focusing_topics": [
+        "data analytics",
+        "healthcare",
+        "patient care"
+      ],
+      "postedon": "2024-08-09"
+    },
+    {
+      "id": "P010",
+      "projectname": "Autonomous Vehicle Research",
+      "duration": "9 months",
+      "location": "Detroit, MI",
+      "description": "Conducting research and development for autonomous vehicle technology to enhance safety and efficiency.",
+      "amount": 1000,
+      "focusing_topics": [
+        "autonomous vehicles",
+        "AI",
+        "transportation"
+      ],
+      "postedon": "2024-08-10"
+    },
+    {
+      "id": "P011",
+      "projectname": "Digital Marketing Strategy",
+      "duration": "3 months",
+      "location": "Miami, FL",
+      "description": "Creating and implementing a comprehensive digital marketing strategy to increase online presence.",
+      "amount": 600,
+      "focusing_topics": [
+        "digital marketing",
+        "SEO",
+        "content creation"
+      ],
+      "postedon": "2024-08-11"
+    },
+    {
+      "id": "P012",
+      "projectname": "Smart Agriculture System",
+      "duration": "5 months",
+      "location": "Dallas, TX",
+      "description": "Developing a smart agriculture system using IoT to improve crop management and yield.",
+      "amount": 700,
+      "focusing_topics": [
+        "smart agriculture",
+        "IoT",
+        "crop management"
+      ],
+      "postedon": "2024-08-12"
+    },
+    {
+      "id": "P013",
+      "projectname": "Educational App Development",
+      "duration": "4 months",
+      "location": "San Diego, CA",
+      "description": "Designing and developing an educational app to enhance learning experiences for students.",
+      "amount": 550,
+      "focusing_topics": [
+        "education",
+        "app development",
+        "learning tools"
+      ],
+      "postedon": "2024-08-13"
+    },
+    {
+      "id": "P014",
+      "projectname": "Augmented Reality for Retail",
+      "duration": "6 months",
+      "location": "Seattle, WA",
+      "description": "Implementing augmented reality solutions to enhance the retail shopping experience.",
+      "amount": 900,
+      "focusing_topics": [
+        "AR",
+        "retail",
+        "customer experience"
+      ],
+      "postedon": "2024-08-14"
+    },
+    {
+      "id": "P015",
+      "projectname": "Renewable Energy Storage",
+      "duration": "7 months",
+      "location": "San Francisco, CA",
+      "description": "Researching new methods for storing renewable energy to ensure consistent energy supply.",
+      "amount": 950,
+      "focusing_topics": [
+        "energy storage",
+        "renewable energy",
+        "sustainability"
+      ],
+      "postedon": "2024-08-15"
+    },
+    {
+      "id": "P016",
+      "projectname": "Voice Recognition System",
+      "duration": "5 months",
+      "location": "New York, NY",
+      "description": "Developing a voice recognition system for various applications including personal assistants and security.",
+      "amount": 800,
+      "focusing_topics": [
+        "voice recognition",
+        "AI",
+        "personal assistants"
+      ],
+      "postedon": "2024-08-16"
+    },
+    {
+      "id": "P017",
+      "projectname": "Robotics for Manufacturing",
+      "duration": "6 months",
+      "location": "Chicago, IL",
+      "description": "Implementing robotic solutions to improve efficiency and precision in manufacturing processes.",
+      "amount": 850,
+      "focusing_topics": [
+        "robotics",
+        "manufacturing",
+        "automation"
+      ],
+      "postedon": "2024-08-17"
+    },
+    {
+      "id": "P018",
+      "projectname": "Financial Analytics Platform",
+      "duration": "8 months",
+      "location": "Boston, MA",
+      "description": "Creating a platform for financial analytics to assist businesses in making data-driven decisions.",
+      "amount": 950,
+      "focusing_topics": [
+        "financial analytics",
+        "data visualization",
+        "business intelligence"
+      ],
+      "postedon": "2024-08-18"
+    },
+    {
+      "id": "P019",
+      "projectname": "3D Printing Innovations",
+      "duration": "4 months",
+      "location": "San Jose, CA",
+      "description": "Exploring new applications and materials for 3D printing to expand its possibilities.",
+      "amount": 700,
+      "focusing_topics": [
+        "3D printing",
+        "manufacturing",
+        "innovation"
+      ],
+      "postedon": "2024-08-19"
+    },
+    {
+      "id": "P020",
+      "projectname": "Smart Wearable Technology",
+      "duration": "6 months",
+      "location": "Austin, TX",
+      "description": "Developing advanced wearable technology for health monitoring and fitness tracking.",
+      "amount": 900,
+      "focusing_topics": [
+        "wearable tech",
+        "health monitoring",
+        "fitness"
+      ],
+      "postedon": "2024-08-20"
+    },
+    {
+      "id": "P021",
+      "projectname": "Cloud Computing Solutions",
+      "duration": "5 months",
+      "location": "Atlanta, GA",
+      "description": "Implementing cloud computing solutions to improve scalability and flexibility for businesses.",
+      "amount": 850,
+      "focusing_topics": [
+        "cloud computing",
+        "IT infrastructure",
+        "scalability"
+      ],
+      "postedon": "2024-08-21"
+    },
+    {
+      "id": "P022",
+      "projectname": "Energy Efficient Buildings",
+      "duration": "7 months",
+      "location": "Seattle, WA",
+      "description": "Designing and implementing energy-efficient solutions for commercial and residential buildings.",
+      "amount": 950,
+      "focusing_topics": [
+        "energy efficiency",
+        "building design",
+        "sustainability"
+      ],
+      "postedon": "2024-08-22"
+    },
+    {
+      "id": "P023",
+      "projectname": "Data Privacy Solutions",
+      "duration": "4 months",
+      "location": "San Francisco, CA",
+      "description": "Developing solutions to enhance data privacy and protect user information.",
+      "amount": 600,
+      "focusing_topics": [
+        "data privacy",
+        "cybersecurity",
+        "compliance"
+      ],
+      "postedon": "2024-08-23"
+    },
+    {
+      "id": "P024",
+      "projectname": "Interactive Learning Tools",
+      "duration": "3 months",
+      "location": "Los Angeles, CA",
+      "description": "Creating interactive tools to make learning more engaging and effective for students.",
+      "amount": 550,
+      "focusing_topics": [
+        "education",
+        "interactive tools",
+        "student engagement"
+      ],
+      "postedon": "2024-08-24"
+    },
+    {
+      "id": "P025",
+      "projectname": "Advanced Data Visualization",
+      "duration": "6 months",
+      "location": "New York, NY",
+      "description": "Developing advanced data visualization techniques to improve data interpretation and decision-making.",
+      "amount": 700,
+      "focusing_topics": [
+        "data visualization",
+        "analytics",
+        "business intelligence"
+      ],
+      "postedon": "2024-08-25"
+    }
+]
